@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jorgelimo/Projects/UNMSM/Rabies-Risk-ML-Peru/mlruns/618836064982793218/48fd1f229e644f8ba299cfa6d206e128/artifacts
+end_time: 1780763251675
+entry_point_name: ''
+experiment_id: '618836064982793218'
+lifecycle_stage: active
+run_id: 48fd1f229e644f8ba299cfa6d206e128
+run_name: logreg-seed-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780763250479
+status: 3
+tags: []
+user_id: jorgelimo

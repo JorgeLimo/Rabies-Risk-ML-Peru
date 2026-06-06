@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jorgelimo/Projects/UNMSM/Rabies-Risk-ML-Peru/mlruns/618836064982793218/models/m-2adca392010a42f8b0837fa52a1d063f/artifacts
+creation_timestamp: 1780763250496
+experiment_id: '618836064982793218'
+last_updated_timestamp: 1780763251674
+model_id: m-2adca392010a42f8b0837fa52a1d063f
+model_type: null
+name: model
+source_run_id: 48fd1f229e644f8ba299cfa6d206e128
+status: 2
+status_message: null

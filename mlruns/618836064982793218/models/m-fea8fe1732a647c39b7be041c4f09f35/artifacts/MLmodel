@@ -1,0 +1,22 @@
+artifact_path: file:///Users/jorgelimo/Projects/UNMSM/Rabies-Risk-ML-Peru/mlruns/618836064982793218/models/m-fea8fe1732a647c39b7be041c4f09f35/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-fea8fe1732a647c39b7be041c4f09f35
+model_size_bytes: 772
+model_uuid: m-fea8fe1732a647c39b7be041c4f09f35
+prompts: null
+run_id: b10bbbec80dc417c8f3f9d845dd6ef1b
+utc_time_created: '2026-06-06 16:27:25.487698'
