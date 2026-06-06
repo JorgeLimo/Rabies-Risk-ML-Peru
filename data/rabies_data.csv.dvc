@@ -1,0 +1,5 @@
+outs:
+- md5: ec886cbe886850f7264de7900dc28f49
+  size: 58313
+  hash: md5
+  path: rabies_data.csv
