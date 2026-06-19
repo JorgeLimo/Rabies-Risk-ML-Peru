@@ -1,0 +1,21 @@
+# Virtual environment
+/venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DVC local cache (no el .dvc de config, solo el cache)
+/.dvc/cache
+
+# Docker
+*.log
